@@ -1,0 +1,33 @@
+.p-rich_text_section {
+	font-family: Vazir, Vazirmatn, -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+	font-size: 90%;
+}
+
+[lang] .c-texty_input_unstyled {
+	font-family: Vazir, Vazirmatn, -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+	direction: rtl;
+}
+
+.c-message_kit__gutter__right{
+	direction: rtl;
+	text-align: right;
+}
+
+.c-message__sender{
+	float: left;
+}
+
+[role="application"] .c-virtual_list__scroll_container > .c-virtual_list__item:nth-child(2n+1) .c-message_kit__background {
+	background-color: #e7e7e7;
+	padding: 16px;	
+	margin: 16px 0;	
+}
+
+.c-message_kit__reaction_bar{
+	margin-top: 16px;
+}
+
+.c-message__reply_bar span,
+.c-message__reply_bar a {
+	float: left;
+}
