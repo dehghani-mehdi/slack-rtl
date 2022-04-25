@@ -9,6 +9,7 @@
 	text-align: right;
 	margin: 12px 0;
 	opacity: .7;
+	direction: rtl;
 }
 
 [lang] .c-texty_input_unstyled {
