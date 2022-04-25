@@ -3,7 +3,7 @@
 	font-size: 90%;
 }
 
-.p-rich_text_section + blockquote {
+.c-mrkdwn__quote {
 	font-family: Vazir, Vazirmatn, -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
 	font-size: 90%;	
 	text-align: right;
